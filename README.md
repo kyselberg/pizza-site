@@ -1,4 +1,5 @@
 # pizza-vue
+Project made with Vue, Vuex, vue-router, scss 
 
 ## Project setup
 ```
